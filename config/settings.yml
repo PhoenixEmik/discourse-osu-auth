@@ -1,0 +1,14 @@
+plugins:
+  osu_auth_enabled:
+    client: true
+    default: false
+    area: "authenticators"
+  osu_auth_client_id:
+    client: false
+    default: ""
+    area: "authenticators"
+  osu_auth_client_secret:
+    client: false
+    default: ""
+    secret: true
+    area: "authenticators"

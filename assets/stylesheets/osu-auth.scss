@@ -1,0 +1,17 @@
+.btn-social.osu {
+  background: #ff66ab;
+  color: #fff;
+
+  .d-icon {
+    color: #fff;
+  }
+
+  &:hover {
+    background: #ff4d9e;
+    color: #fff;
+
+    .d-icon {
+      color: #fff;
+    }
+  }
+}

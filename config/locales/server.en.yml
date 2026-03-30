@@ -1,0 +1,5 @@
+en:
+  site_settings:
+    osu_auth_enabled: "Login with osu!"
+    osu_auth_client_id: "Login with osu! client ID"
+    osu_auth_client_secret: "Login with osu! client secret"

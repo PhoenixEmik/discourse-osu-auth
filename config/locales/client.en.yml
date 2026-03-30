@@ -1,0 +1,8 @@
+en:
+  js:
+    login:
+      osu:
+        name: "osu!"
+        title: "Sign in with osu!"
+        sr_title: "Sign in with osu!"
+        message: "Authenticating with osu!"
